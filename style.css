@@ -253,6 +253,7 @@ hr{
 	/* color: black; */
 	background-color: black;
 }
-li{
-	/* color: black; */
+span{
+	color: black;
+	font-weight: bold;
 }
